@@ -1,13 +1,17 @@
-# variant-nw
+# Variant Network Visualization Tool 
 Variant Network Visualization Tool. Credit for Dash tool @smorabit
 
+# Deployment of Dash Server
+
+
+Dash App original repository - https://github.com/smorabit/variant-viz
 # Variant / Annotation Visualization
 
 A [Dash](https://plot.ly/products/dash/) webapp for visualizing the annotation network of a variant in the Diabetes Epigenome Atlas. Consists of two python scripts, variant_viz.py and dash_visualize.py. [Here](https://dash.plot.ly/getting-started) is a tutorial for getting familiar with Dash. 
 
-## Dependencies (get most recent versions)
-* [Dash](https://dash.plot.ly/installation)
-* [plotly](https://plot.ly/python/getting-started/)
+## Dependencies 
+* [Dash](https://dash.plot.ly/installation) version - 
+* [plotly](https://plot.ly/python/getting-started/) version - (Note :)
 * Python3
 
 ## variant_viz.py
