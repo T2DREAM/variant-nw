@@ -26,7 +26,7 @@ Contains the VariantViz class, which is where the bulk of the code for generatin
 
 Script that creates an empty Dash app object, initializes the variant / annotation network graph using variant rs11257655 (as a placeholder for now), and creates some buttons and dropdown menus that enable the user to alter the network graph however the see fit. Refer to the Dash documentation to see what types of html elements can be generated using the Dash framework.
 
-Include this on the DEA website as an HTML iframe.
+
 
 * update_graph() 
     - Re-draws the network graph after the user makes selections using the dropdown menus.
