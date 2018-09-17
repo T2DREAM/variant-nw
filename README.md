@@ -3,6 +3,30 @@ Variant Network Visualization Tool. Credit for Dash tool @smorabit
 
 # Deployment of Dash Server
 
+* Local deployment
+
+Step 1: Create Dash Virtual Environment
+```
+$ cd ~
+$ python3 -m venv .venvs/dash
+```
+```
+$  source .venvs/dash/bin/activate
+```
+Step 2: Setup the project folder
+
+```
+$ mkdir variant-viz && cd .
+```
+
+Files in the folder - requirements.txt, dash_visualize.py & variant_viz.py
+
+Run the app locally
+
+```
+python3 dash_visualize.py
+```
+
 
 Dash App original repository - https://github.com/smorabit/variant-viz
 # Variant / Annotation Visualization
