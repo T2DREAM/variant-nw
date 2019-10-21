@@ -3,7 +3,7 @@ Flask==1.0.2
 Flask-Compress==1.4.0
 Jinja2==2.10
 MarkupSafe==1.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 acme==0.26.0
 asn1crypto==0.22.0
 certbot==0.26.1
