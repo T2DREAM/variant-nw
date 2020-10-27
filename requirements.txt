@@ -14,7 +14,7 @@ click==6.7
 colorama==0.2.5
 colorlover==0.2.1
 configobj==5.0.6
-cryptography==1.9
+cryptography==3.2
 dash==0.24.1
 dash-core-components==0.27.1
 dash-html-components==0.11.0
