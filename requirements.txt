@@ -1,7 +1,7 @@
 ConfigArgParse==0.11.0
 Flask==1.0.2
 Flask-Compress==1.4.0
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 Werkzeug==0.14.1
 acme==0.26.0
