@@ -31,7 +31,7 @@ jsonschema==2.6.0
 jupyter-core==4.4.0
 mock==1.0.1
 nbformat==4.4.0
-numpy==1.15.1
+numpy==1.22.0
 parsedatetime==2.4
 plotly==2.7.0
 pyOpenSSL==17.3.0
